@@ -66,4 +66,8 @@ public class TaskManager {
         return false;
     }
     
+    public double add(double x, double y){
+        return x+y;
+    }
+    
 }
