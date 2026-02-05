@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author patel
+ * @author Khush Patel
  */
 class ToDo {
     
